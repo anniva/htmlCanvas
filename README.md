@@ -1,2 +1,4 @@
 # htmlCanvas
-html canvas tennis game following a tutorial
+Html canvas tennis game following a tutorial from Udemy // code your first game
+
+
